@@ -24,4 +24,6 @@ python3 wbf.py
 
 ```
 
+# Usabale on every Linux based platform (+ Raspberry pi OS)
+
 # for educational purposes only ++
