@@ -17,5 +17,9 @@ A Linux based Wi-Fi brute forcer. tries a custom list (of passwords) and tries t
 2. Now you can use below commands to start the program:
 
 ```
+git clone https://github.com/WindyBoy-here/wifi-bruteforce.git
+
 python3 wbf.py
+
+
 ```
