@@ -1,4 +1,4 @@
-# Wi-Fi Brute Forcer
+a# Wi-Fi Brute Forcer
 
 A Linux based Wi-Fi brute forcer. tries a custom list (of passwords) and tries to connect to an specific
 
