@@ -2,7 +2,7 @@
 
 A Linux based Wi-Fi brute forcer. tries a custom list (of passwords) and tries to connect to an specific
 
-<img src="[![1.png](https://i.postimg.cc/JnQjr35h/1.png)](https://postimg.cc/47mYw9MC)">
+<img src="https://i.postimg.cc/gjDs7FTK/3.png">
 
 # How to use
 
