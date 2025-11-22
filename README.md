@@ -22,9 +22,8 @@ git clone https://github.com/WindyBoy-here/wifi-bruteforce.git
 cd wifi-brutforce
 
 python3 wbf.py
-
 ```
 
-# Usabale on every Linux based platform (+ Raspberry pi OS)
+## Usabale on every Linux based platform (+ Raspberry pi OS)
 
-# for educational purposes only ++
+## for educational purposes only ++
