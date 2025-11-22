@@ -19,8 +19,9 @@ A Linux based Wi-Fi brute forcer. tries a custom list (of passwords) and tries t
 ```
 git clone https://github.com/WindyBoy-here/wifi-bruteforce.git
 
-python3 wbf.py
+cd wifi-brutforce
 
+python3 wbf.py
 
 ```
 
